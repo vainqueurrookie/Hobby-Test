@@ -1,0 +1,16 @@
+Address translation is the process by which a computer system maps logical addresses (or virtual addresses) used by programs to physical addresses used by the hardware (e.g., the CPU and memory).
+A hobby kernel is a term often used to describe an operating system kernel that is created by an individual or a small group of enthusiasts, typically for learning purposes, experimentation, or as a personal project.
+The operating system provides a layer of abstraction between hardware and software, allowing applications to interact with hardware in a uniform and simplified manner.
+QtEMU acts as a helper tool for QEMU, making it accessible to a broader range of users by providing an intuitive GUI for its powerful features.
+a hex editor is indispensable in kernel development because it bridges the gap between the human-readable world and the raw binary data, enabling developers to directly interact with and debug the kernel and its associated systems at the byte level.
+Inspecting Binary Files: It allows developers to view and analyze kernel binaries, firmware, and data structures in raw hexadecimal format.
+Visual Studio Code (VSCode) is widely recommended as a text editor because of its combination of features, flexibility, and user-friendliness
+NASM (Netwide Assembler) is an open-source assembler designed to write low-level code for x86 and x86-64 architectures. 
+NASM is a powerful assembler for creating efficient machine code, used in professional and advanced assembly programming.
+SASM is a beginner-friendly IDE that integrates assemblers like NASM and provides a straightforward way to write, compile, and debug assembly programs.
+MinGW is important for compiling C programs on Windows because it provides a powerful, free, and lightweight development environment using the GCC compiler.
+Hardware compatibility is essential for virtual environments to ensure optimal performance, stability, security, and full utilization of advanced virtualization features
+Configuring software in the environment PATH makes it easily accessible from any location, simplifies command execution, supports automation, and ensures a consistent and efficient development or operational workflow
+Configuring QEMU involves setting up virtualization support, networking, virtual disks, and performance optimizations. 
+The kernel is the heart of the operating system, ensuring efficient, secure, and stable interaction between hardware and software. 
+Testing tools and the environment after setup is vital to confirm proper installation, functionality, performance, and security. It prevents future problems, saves time and costs, and ensures a stable foundation for development, testing, or production activities.
